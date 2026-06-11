@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-all-your-paths/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tracing All Your Paths](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-paths/) |
+| **Get License** | [Request Licensing for Tracing All Your Paths](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-paths/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tracing all your paths in the quiet of the night
+> Every single shadow in the soft and fading light
+> I've been drawing circles where your footsteps used to lay
+> Waiting for the moment that you look my way
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
