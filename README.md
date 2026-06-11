@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-all-your-paths/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tracing All Your Paths](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-paths/) |
+| **Get License** | [Commercial Licensing for Tracing All Your Paths](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-paths/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cffc301d25623fc387500fec731da3e5173d716c00dd139554d9072e1df4e018` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
